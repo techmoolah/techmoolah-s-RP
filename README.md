@@ -1,6 +1,6 @@
 # Hi, I'm MOOLAH BONIPHACE 👋
 
-Full-Stack Developer • Android Reverse Engineer & Modder • Alumnus of NASI Academy 🇹🇿
+Full-Stack Developer • Android Reverse Engineer & Modder • Alumnus of nasiacademy.com 🇹🇿
 
 I build high-performance web applications, native-feeling Android experiences, and deep-level app reverse engineering and customization solutions.
 
@@ -64,6 +64,8 @@ I’m a full-stack developer and mobile systems modder based in Dar es Salaam, T
 
 - 📍 Location: Dar es Salaam, Tanzania
 - 💼 GitHub: [github.com/techmoolah](https://github.com/techmoolah)
+- Phone-Number: [wa.me/255747330723]
+- Email-Address: [moolahxd6@gmail.com]
 
 > “Building and breaking the limits of mobile technology.” ✨
 
