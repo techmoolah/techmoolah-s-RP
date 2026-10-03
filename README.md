@@ -64,8 +64,9 @@ I’m a full-stack developer and mobile systems modder based in Dar es Salaam, T
 
 - 📍 Location: Dar es Salaam, Tanzania
 - 💼 GitHub: [github.com/techmoolah](https://github.com/techmoolah)
-- Phone-Number: [wa.me/255747330723]
+- Phone-Number: [https://wa.me/255747330723]
 - Email-Address: [moolahxd6@gmail.com]
+- Krietas-Profile: [https://krietas.com/c/moolahboniphace]
 
 > “Building and breaking the limits of mobile technology.” ✨
 
